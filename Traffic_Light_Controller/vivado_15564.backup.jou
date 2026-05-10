@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Wed Apr 29 22:21:43 2026
+# Process ID         : 15564
+# Current directory  : C:/Projects/Vivado/Traffic_Light_Controller
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13028 C:\Projects\Vivado\Traffic_Light_Controller\Traffic_Light_Controller.xpr
+# Log file           : C:/Projects/Vivado/Traffic_Light_Controller/vivado.log
+# Journal file       : C:/Projects/Vivado/Traffic_Light_Controller\vivado.jou
+# Running On         : Laptop-Aryan
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i5-13420H
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16852 MB
+# Swap memory        : 9663 MB
+# Total Virtual      : 26516 MB
+# Available Virtual  : 7285 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Projects/Vivado/Traffic_Light_Controller/Traffic_Light_Controller.xpr
+update_compile_order -fileset sources_1
+open_project C:/Projects/Vivado/Counter_FSM/Counter_FSM.xpr
+update_compile_order -fileset sources_1
+close_project
